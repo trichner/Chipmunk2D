@@ -26,6 +26,7 @@ install_manifest.txt
 *.a
 *.exe
 chipmunk_demos
+*.dylib
 
 # Visual studio
 *.opensdf
